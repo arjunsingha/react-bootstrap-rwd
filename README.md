@@ -1,5 +1,9 @@
 # Description
 This is a react app using boot strap to demonstrate the features of boot strap and how it works in responsive web design
+# Check the demo here
+
+https://react-bootstrap-rwd.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
